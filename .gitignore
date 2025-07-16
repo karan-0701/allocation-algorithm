@@ -218,4 +218,5 @@ results/
 
 # Temporary files
 tmp/
-temp/
+temp/__pycache__/
+.DS_Store
