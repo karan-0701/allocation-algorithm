@@ -148,4 +148,4 @@ The system typically achieves:
 - **Optimal Decay Factors**: 0.2-0.6 (varies by scenario)
 - **Runtime**: ~10-15 minutes for 50 simulations
 
-Higher decay factors prioritize early allocation for high priority advertiser, while lower values spread impressions more evenly across time slots.
+Higher decay factors prioritize early allocation for high priority advertisers, while lower values spread impressions more evenly across time slots.
